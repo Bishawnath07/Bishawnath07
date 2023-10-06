@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bishawnathray" target="blank"><img src="https://img.shields.io/twitter/follow/bishawnathray?logo=twitter&style=for-the-badge" alt="bishawnathray" /></a> </p>
 
-- 🔭 I’m currently working on [Art Spired Academi](https://creativecampus.netlify.app/)
+- 🔭 I’m currently working on [Creative Campus ](https://creativecampus.netlify.app/)
 
 - 🌱 I’m currently learning **Next.js , Redux**
 
