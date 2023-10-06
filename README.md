@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js , Redux**
 
-- 👨‍💻 All of my projects are available at [https://bishawnath-demo.netlify.app/](https://bishawnath-demo.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bishawnath-portfolio.netlify.app/](https://bishawnath-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
